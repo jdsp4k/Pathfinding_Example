@@ -2,9 +2,9 @@
 This is an example implementation of several pathfinding algorithms in Python. These implementaions produce a path from any given undirected graph with included coordinates. They are cycle and disconnect tolerant, and deterministic.
 
 ## Usage
-Run `main.py`
-The script will load the graph from `res/Adjacencies.txt` and the coordinates from `res/coordinates.csv`.
-You may enter none to many algorithms from the presented list. If no algorithms are entered, it will run all algorithms.
+Run `main.py`.  
+The script will load the graph from `res/Adjacencies.txt` and the coordinates from `res/coordinates.csv`.  
+You may enter none to many algorithms from the presented list. If no algorithms are entered, it will run all algorithms.  
 
 ## Algorithms
 

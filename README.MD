@@ -2,7 +2,7 @@
 This is an example implementation of several pathfinding algorithms in Python. These implementaions produce a path from any given undirected graph with included coordinates. They are cycle and disconnect tolerant, and deterministic.
 
 ## Requirements
-Requires Python version > 3.12
+Requires Python version > 3.12.
 
 ## Usage
 Run `main.py`.  
